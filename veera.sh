@@ -12,3 +12,5 @@ current_date=$(date +%d)
 echo "date is $current_date"
 current_time=$(date +%T)
 echo "Time is $current_time"
+
+new lines are added to the code .. please update 
